@@ -1,7 +1,6 @@
 # Minesweeper AI
 
 This project implements an AI that plays Minesweeper using logical inference.
-It was developed as part of the CS50 Artificial Intelligence course.
 
 ## Features
 
@@ -11,7 +10,7 @@ It was developed as part of the CS50 Artificial Intelligence course.
 
 ## Play Online
 
-https://mohammad-sami8552.github.io/Minesweeper/
+https://mohammad-sami8552.github.io/Mineswepper/
 
 ## Run Locally
 
